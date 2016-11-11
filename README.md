@@ -3,9 +3,9 @@
 'run_analysis.R' script does the following action sequence:
 
 1. Merge the training and the test sets to create one data set.
-	•	Using download.file() together with unzip() functi to download the zip file from the website and extraction
-	•	Using read.table() function to load "X_train.txt", "y_train", "subject_train" in train directory and "X_test", "y_test", 		"subject_test" into R.
-	•	Using rbind() and cbind() functions to merge training and test data sets together.
+	1.1 Using download.file() together with unzip() functi to download the zip file from the website and extraction
+	1.2 Using read.table() function to load "X_train.txt", "y_train", "subject_train" in train directory and "X_test", "y_test", 		"subject_test" into R.
+	1.3 Using rbind() and cbind() functions to merge training and test data sets together.
 
 2. Extract only the measurements on the mean and standard deviation for each measurement.
 	•	Using read.table() function to load "features.txt" into R.
