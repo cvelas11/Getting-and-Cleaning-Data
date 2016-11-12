@@ -6,12 +6,13 @@ The information about how the experiment conducted and how the original data col
 
 ##Activity
 Activity type
-1.	WALKING
-2.	WALKING_UPSTAIRS
-3.	WALKING_DOWNSTAIRS
-4.	SITTING
-5.	STANDING
-6.	LAYING
+
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 ##Subject
 ID of subject who carried out the experiment
